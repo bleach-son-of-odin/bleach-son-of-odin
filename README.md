@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bleach-son-of-odin
-- 👀 I’m interested in frontend dev
-- 🌱 I’m currently learning html and css
+- 👀 I’m interested in fullstack engineering
+- 🌱 I’m currently learning css, shell, Linux, git, and c
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on twitter;bleach13_11, discord;bleach13_11
 
