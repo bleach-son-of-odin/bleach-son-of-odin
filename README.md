@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @bleach-son-of-odin</h1>
+<h1>👋 Hi, I’m bleach</h1>
 <h2>Welcome to my Github page</h2>
 <p>I’m currently learning fullstack engineering at Alx Africa and ToP.</p>
 <h3>You can reach me on my socials; https://linktr.ee/bleach1311</h3>
